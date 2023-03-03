@@ -17,7 +17,7 @@ qiime --help
 
 ### To run the pipeline
 
-bash scripts/16s.sh
+bash 16s.sh
 
 ### Resources
 
