@@ -15,9 +15,11 @@ conda activate qiime2-2023.2
 
 qiime --help
 
-### To run the pipeline
+### The pipeline
 
-bash 16s.sh
+1. fastqc.sh
+2. 16s.sh
+3. phyloseq.sh
 
 ### Resources
 
